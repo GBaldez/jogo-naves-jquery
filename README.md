@@ -13,6 +13,10 @@ Jogo para rodar no browser feito com HTML, CSS e JavaScript.
 - CSS Animation
 - JQuery Colisions
 
+### Links
+- [Site do jogo](https://gbaldez.github.io/jogo-naves-jquery/)
+
+
 ### O que aprendi
 Nesse projeto aprendi a utilizar o CSS para criar animações alterando o estilo dos elementos e alguns métodos como o append() no DOM utilizando o JQuery.
 
